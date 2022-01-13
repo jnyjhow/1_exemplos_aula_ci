@@ -6,3 +6,5 @@ tutorial.md
 #js/sonar-project_aux.properties
 js/
 go/
+
+.github/workflows/ci_aux.yaml
