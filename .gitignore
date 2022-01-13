@@ -5,8 +5,4 @@ tutorial.md
 #js/coverage
 #js/sonar-project_aux.properties
 js/
-
-go/.scannerwork
-go/coverage.out
-go/sonar-project_aux.properties
-go/.github/workflows/ci_aux.yaml
+go/
